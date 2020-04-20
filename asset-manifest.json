@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css",
-    "main.js": "/project-4-assessment.git/static/js/main.4c13ea00.chunk.js",
-    "main.js.map": "/project-4-assessment.git/static/js/main.4c13ea00.chunk.js.map",
-    "runtime-main.js": "/project-4-assessment.git/static/js/runtime-main.da9c12ce.js",
-    "runtime-main.js.map": "/project-4-assessment.git/static/js/runtime-main.da9c12ce.js.map",
-    "static/js/2.36c0ca1e.chunk.js": "/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js",
-    "static/js/2.36c0ca1e.chunk.js.map": "/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.map",
-    "index.html": "/project-4-assessment.git/index.html",
-    "precache-manifest.cbf4bb032cec2e0fd576454a73bb9465.js": "/project-4-assessment.git/precache-manifest.cbf4bb032cec2e0fd576454a73bb9465.js",
-    "service-worker.js": "/project-4-assessment.git/service-worker.js",
-    "static/css/main.2ddb3bd6.chunk.css.map": "/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css.map",
-    "static/js/2.36c0ca1e.chunk.js.LICENSE.txt": "/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.LICENSE.txt"
+    "main.css": "/project-4-assessment/static/css/main.2ddb3bd6.chunk.css",
+    "main.js": "/project-4-assessment/static/js/main.231aebb4.chunk.js",
+    "main.js.map": "/project-4-assessment/static/js/main.231aebb4.chunk.js.map",
+    "runtime-main.js": "/project-4-assessment/static/js/runtime-main.58f97c80.js",
+    "runtime-main.js.map": "/project-4-assessment/static/js/runtime-main.58f97c80.js.map",
+    "static/js/2.36c0ca1e.chunk.js": "/project-4-assessment/static/js/2.36c0ca1e.chunk.js",
+    "static/js/2.36c0ca1e.chunk.js.map": "/project-4-assessment/static/js/2.36c0ca1e.chunk.js.map",
+    "index.html": "/project-4-assessment/index.html",
+    "precache-manifest.bd9ee2fa9ff4f25e34d34f7ea782b0b9.js": "/project-4-assessment/precache-manifest.bd9ee2fa9ff4f25e34d34f7ea782b0b9.js",
+    "service-worker.js": "/project-4-assessment/service-worker.js",
+    "static/css/main.2ddb3bd6.chunk.css.map": "/project-4-assessment/static/css/main.2ddb3bd6.chunk.css.map",
+    "static/js/2.36c0ca1e.chunk.js.LICENSE.txt": "/project-4-assessment/static/js/2.36c0ca1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.da9c12ce.js",
+    "static/js/runtime-main.58f97c80.js",
     "static/js/2.36c0ca1e.chunk.js",
     "static/css/main.2ddb3bd6.chunk.css",
-    "static/js/main.4c13ea00.chunk.js"
+    "static/js/main.231aebb4.chunk.js"
   ]
 }
