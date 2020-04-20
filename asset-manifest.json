@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/azebolsky/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css",
+    "main.js": "/azebolsky/project-4-assessment.git/static/js/main.23dea3d6.chunk.js",
+    "main.js.map": "/azebolsky/project-4-assessment.git/static/js/main.23dea3d6.chunk.js.map",
+    "runtime-main.js": "/azebolsky/project-4-assessment.git/static/js/runtime-main.775caf4f.js",
+    "runtime-main.js.map": "/azebolsky/project-4-assessment.git/static/js/runtime-main.775caf4f.js.map",
+    "static/js/2.36c0ca1e.chunk.js": "/azebolsky/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js",
+    "static/js/2.36c0ca1e.chunk.js.map": "/azebolsky/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.map",
+    "index.html": "/azebolsky/project-4-assessment.git/index.html",
+    "precache-manifest.a9f031bd1b77df9644c02a487cbedd96.js": "/azebolsky/project-4-assessment.git/precache-manifest.a9f031bd1b77df9644c02a487cbedd96.js",
+    "service-worker.js": "/azebolsky/project-4-assessment.git/service-worker.js",
+    "static/css/main.2ddb3bd6.chunk.css.map": "/azebolsky/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css.map",
+    "static/js/2.36c0ca1e.chunk.js.LICENSE.txt": "/azebolsky/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.775caf4f.js",
+    "static/js/2.36c0ca1e.chunk.js",
+    "static/css/main.2ddb3bd6.chunk.css",
+    "static/js/main.23dea3d6.chunk.js"
+  ]
+}
